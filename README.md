@@ -19,5 +19,6 @@ Phone Pay, Gpay, Paytm   number  :   9423950322
 
 UPI  :	sandiprampawar@oksbi	
 
-![image](https://github.com/sandipawar/Free-MT4-Bridges-Python-INDIA/assets/161995509/1f9a5785-616c-4539-9d25-9cac1e600367)
+ 
 
+![image](https://github.com/sandipawar/Free-MT4-Bridges-Python-INDIA/assets/161995509/b2352ca0-aaa5-4a99-aa51-aff38b05a2ee)
